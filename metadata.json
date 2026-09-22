@@ -1,0 +1,6 @@
+{
+  "name": "Glamping Paraíso en La Montaña",
+  "description": "Glamping exclusivo en La Calera con chimenea de leña, malla catamarán, paseos a caballo, cama King y vista panorámica a la cordillera. Puntuación 9/10. Agenda por WhatsApp: 317 367 6149.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
